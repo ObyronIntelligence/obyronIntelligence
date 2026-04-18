@@ -30,7 +30,7 @@ Acreditamos que o futuro das empresas está na automação inteligente. Por isso
 Nosso compromisso é entregar tecnologia aplicada de forma estratégica, transformando complexidade em soluções simples, eficientes e escaláveis.
 
 ---
-#### US
+#### USA
 # About Us
 
 We are a startup focused on building intelligent systems, combining automation, service integration, and artificial intelligence to transform how businesses operate.
